@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+# Dev Dependencies
+nose
+lifelines
+flake8
