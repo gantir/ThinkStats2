@@ -3,7 +3,13 @@ numpy
 scipy
 statsmodels
 matplotlib
+pyparsing
+Jinja2
 # Dev Dependencies
+mock
 nose
 lifelines
 flake8
+Pygments
+jupyter
+ipyparallel
