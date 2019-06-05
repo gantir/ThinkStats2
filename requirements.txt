@@ -1,15 +1,9 @@
-pandas
-numpy
-scipy
-statsmodels
-matplotlib
-pyparsing
 Jinja2
+seaborn
+google-cloud-bigquery
 # Dev Dependencies
-mock
-nose
 lifelines
 flake8
 Pygments
-jupyter
-ipyparallel
+jupyterlab
+jupyterlab-git
